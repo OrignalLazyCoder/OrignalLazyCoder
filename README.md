@@ -2,6 +2,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [lazynpm](https://github.com/lazynpm)
+- 🧑‍💻 Developing developer friendly tools and boilerplate code [nestjs with postgres boiler plate](https://github.com/OrignalLazyCoder/nestjs-boilerplate)
 - 👯 You can find most of my projects on Github
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lazycoderr)
