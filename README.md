@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lazycoderr)
 
 ## About me
-I am a software engineer with 2+ years of professional experience in the IT industry with around 3 years of experience working in small businesses as a Project Manager, Team leader, Tech Lead, and content manager before starting my full-time career.
+I am a software engineer with 3+ years of professional experience in the IT industry with around 3 years of experience working in small businesses as a Project Manager, Team leader, Tech Lead, and content manager before starting my full-time career.
 
 Here are some of the technologies I work on:
 - NodeJS
