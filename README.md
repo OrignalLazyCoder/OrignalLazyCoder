@@ -1,10 +1,10 @@
 
 ### Hi there 👋
 
-- ⛓️Working on my own blockchain from scratch. This will take sometime to look decent [blkchn](https://github.com/OrignalLazyCoder/blkchn)
+- ⛓️Working on my own blockchain from scratch. This will take some time to look decent [blkchn](https://github.com/OrignalLazyCoder/blkchn)
 - 🗄️Custom Built distributed database written in go lang - [lazydistdb](https://github.com/OrignalLazyCoder/lazydistdb)
 - 🔭 Project that I created a long time ago! NPM Packages!!! [lazynpm](https://github.com/lazynpm)
-- 👯 You can find most of my projects on Github
+- 👯 You can find most of my projects on GitHub
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lazycoderr)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lazycoderr)
@@ -22,12 +22,12 @@ Here are some of the technologies I work on:
 - Ionic
 - Languages - JS, TS, Python, C#, Solidity, C++, Java, Go
 
-I love building software solutions and believe that only if we start, then we can change the world. That is why I am constantly hustling after and before my full-time job to make our world a better place. Recently, I built my own scripting language called "lazy Language" which is built over python with a more simplified syntax and resembles pseudocode. It is uploaded to GitHub as an open-source. You can check the projects section in my profile. Some other open-source projects are NPM Packages: sockhttp, string-analysis.
+I love building software solutions and believe that only if we start, then we can change the world. That is why I am constantly hustling after and before my full-time job to make our world a better place. Recently, I built my own scripting language called "lazy Language" which is built over Python with a more simplified syntax and resembles pseudocode. It is uploaded to GitHub as an open source. You can check the projects section in my profile. Some other open-source projects are NPM Packages: sockhttp, and string-analysis.
 Sockhttp is a simple library to create simple and secure APIs
-String-Analysis is used to detect the tone of a sentence with detection and filtration of bad words. You can also fetch nouns, adjectives, and verbs from a sentence.
+String-Analysis is used to detect the tone of a sentence with the detection and filtration of bad words. You can also fetch nouns, adjectives, and verbs from a sentence.
 
-With a keen interest in management roles, I have been studying project management and love practicing it on a personal project "Downbeat". It s a Mental Health Support Group is started with the belief that every single one of us is resilient, and that our resilience can be fostered with the help and support of a community. Our members provide the place and space for personal growth, self-reflection, learning, and bonding.
+With a keen interest in management roles, I have been studying project management and love practising it on a personal project "Downbeat". It s a Mental Health Support Group started with the belief that every single one of us is resilient and that our resilience can be fostered with the help and support of a community. Our members provide the place and space for personal growth, self-reflection, learning, and bonding.
 
-For fun, I love doodling, writing, reading, cooking, playing guitar, ukulele, and drums, skating, swimming, and run around with a football.
+For fun, I love doodling, writing, reading, cooking, playing guitar, ukulele, skating, swimming, and running around with a football.
 
 Have a great day!
